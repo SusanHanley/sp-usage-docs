@@ -22,7 +22,7 @@ Choosing between a [team site](https://support.office.com/en-ie/article/what-is-
 
 **Create a team site for each discrete group of people or unit of work**.
 
-If you are a long-time user of SharePoint, you might be thinking that &quot;team site equals sub-site.&quot; Resist the temptation to create team sites as sub-sites! Many governance decisions (for example, the ability to share content outside the organization and who has permission to invite new members to the team) are **scoped to the site collection**. For the most flexibility both today and in the future, each team should get their own site collection – which is exactly what happens when you create an [Office 365 Group](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) or a team site from the SharePoint start page, assuming that your organization has enabled &quot;self-service&quot; site creation. When you provision a new [Microsoft Teams](https://support.office.com/article/video-what-is-microsoft-teams-422bf3aa-9ae8-46f1-83a2-e65720e1a34d) or [team site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) in Office 365, you will get a new _site collection_ in your tenant.
+If you are a long-time user of SharePoint, you might be thinking that &quot;team site equals sub-site.&quot; Resist the temptation to create team sites as sub-sites! Many governance decisions (for example, the ability to share content outside the organization and who has permission to invite new members to the team) are **scoped to the site collection**. For the most flexibility both today and in the future, each team should get their own site collection – which is exactly what happens when you create an [Microsoft 365 Group](https://support.microsoft.com/en-us/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) or a team site from the SharePoint start page, assuming that your organization has enabled &quot;self-service&quot; site creation. When you provision a new [Microsoft Teams](https://support.office.com/article/video-what-is-microsoft-teams-422bf3aa-9ae8-46f1-83a2-e65720e1a34d) or [team site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) in Microsoft 365, you will get a new _site collection_ in your tenant.
 
 If you are doing this right, you will have **a lot of team sites**. Why? Because you have a lot of projects and work teams – and each one of your projects or work teams will likely have different access and information management requirements. Even if the same work team works on lots of projects, you should still provision a unique team site for each unique project.
 
@@ -38,7 +38,7 @@ While your team site will have one or more Owners, typically every Member of the
 
 Don&#39;t panic about how your users will possibly keep track of all of these team sites – because the SharePoint start page has got your back!
 
-The [SharePoint start page](https://support.office.com/article/Find-news-sites-and-portals-in-Office-365-6b85097a-87e0-4611-a29a-dfd49b1a1220) in Office 365 brings together, for each individual person, news from all of the team sites in which they are a member (and sites they are following), sites they visit frequently, and other news suggested by the Microsoft Graph. It also shows the most recent activity in the sites each person visits frequently.
+The [SharePoint start page](https://support.microsoft.com/en-us/office/discover-content-with-the-sharepoint-start-page-6b85097a-87e0-4611-a29a-dfd49b1a1220) in Microsoft 365 brings together, for each individual person, news from all of the team sites in which they are a member (and sites they are following), sites they visit frequently, and other news suggested by the Microsoft Graph. It also shows the most recent activity in the sites each person visits frequently.
 
 **Examples of team site scenarios.**
 
@@ -57,7 +57,7 @@ Here&#39;s a way to think about the difference between a team site and a communi
 
 **Communication sites have two distinct user personas.**
 
-Most often, a communication site has a small number of people with permission to author content and many people who only have permission to read content. Team sites use Office 365 Groups for permissions. Communication sites use SharePoint groups.
+Most often, a communication site has a small number of people with permission to author content and many people who only have permission to read content. Team sites use Microsoft 365 Groups for permissions. Communication sites use SharePoint groups.
 
 **Think about your team sites as where you**  **collaborate**  **and your communication sites as where you**  **communicate****.**
 
@@ -78,10 +78,10 @@ When they are ready to _share_, the HR team moves the document to or writes the 
 | --- | --- | --- |
 | Who creates the site? | Site Owner (or Admins) | Site Owner (or Admins) |
 | Who creates content? | **All members are content authors** who jointly create and edit content. | **Small number of content authors** and a much larger number of content readers or consumers. |
-| Security | Office 365 Groups, plus SharePoint Groups (as of July 2018) | SharePoint Groups |
+| Security | Microsft 365 Groups | SharePoint Groups |
 | Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) |
 | Navigation | Left | Top |
-| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, Opportunity to connect with a Teams (if the site wasn&#39;t created as part of provisioning a Microsoft Teams) | NOTHING but a SharePoint communication site! |
+| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, Opportunity to connect with a Microsoft Team  (if the site wasn&#39;t created as part of provisioning a Microsoft Teams) | NOTHING but a SharePoint communication site! |
 
 ---
 
